@@ -34,3 +34,5 @@ Eniya = JuniorEmployee("Eniya",4567,5,"76%")
 Eniya.Info()
 Kashif = SeniorEmployee("Kashif",4563,12,"88%",5)
 Kashif.Info()
+
+print(SeniorEmployee.__mro__)
