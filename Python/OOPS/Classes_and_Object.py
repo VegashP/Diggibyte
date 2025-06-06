@@ -43,3 +43,19 @@ class Emp_02:
         print("Okay Your Emp_Id is",Id)
 Sam = Emp_02("Sam",22)
 Sam.Id(55)
+
+
+
+#4. Instance Methods, Class Methods, Static Methods
+class Emp_03:
+    def fun(Method):
+        print("Class method")
+    def fun(self):
+        print('Instance Method')
+def fun():
+    print("Static method")
+
+Ram = Emp_03()
+Ram.fun()
+Emp_03.fun(Emp_03)
+fun()
