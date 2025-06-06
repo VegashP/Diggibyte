@@ -8,11 +8,6 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 '''
 from unittest import removeResult
 def removeElement(nums, val):
-    """
-    :type nums: List[int]
-    :type val: int
-    :rtype: int
-    """
     nums[:] = [x for x in nums if x!=val]
     return len(nums)
 
