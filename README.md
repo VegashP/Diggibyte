@@ -1,4 +1,4 @@
-# 🛠️ Internship Project: Learning Python & GitHub
+# 🛠️ Internship: Learning Python & GitHub
 
 This repository documents my learning during my internship, where I focused on mastering **Python programming** and using **GitHub for version control and collaboration**.
 
