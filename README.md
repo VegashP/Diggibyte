@@ -1,10 +1,19 @@
-# 🧮 BMI Calculator
+# 🛠️ Internship Project: Learning Python & GitHub
 
-A simple Python project that calculates Body Mass Index (BMI) from user input.
+This repository documents my learning during my internship, where I focused on mastering **Python programming** and using **GitHub for version control and collaboration**.
 
 ---
 
-## ⚙️ How It Works
+## 📘 Topics Covered
 
-The user inputs their **height (m)** and **weight (kg)**, and the app calculates their BMI using this formula:
+- ✅ Python Basics: Variables, loops, functions, OOP
+- ✅ Python Collections: List, Dict, Set, Tuple
+- ✅ File Handling & Exception Management
+- ✅ Python Project Structure
+- ✅ Git Basics: init, add, commit, push, pull
+- ✅ GitHub Workflow: Repositories, branches, commits, .gitignore, README
+
+---
+
+## 📁 Project Structure
 
