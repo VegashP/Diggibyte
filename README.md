@@ -11,7 +11,7 @@ This repository documents my learning during my internship, where I focused on m
 - ✅ GitHub Workflow: Repositories, branches, commits, .gitignore, README
 - ✅ Python Basics: Variables, loops, functions, OOP
 - ✅ Python Collections: List, Dict, Set, Tuple
-- ✅ File Handling & Exception Management
+- ✅ File Handling 
 
 
 
