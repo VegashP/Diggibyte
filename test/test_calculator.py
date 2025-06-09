@@ -1,7 +1,7 @@
 import unittest
 
 import pytest
-from src.Testing.calculator import add, subtract, divide
+from src.calculator import add, subtract, divide
 
 class TestCalculator(unittest.TestCase):
     def test_add(self):
